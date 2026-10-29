@@ -109,7 +109,7 @@ tr:hover {
     box-shadow: 0 4px 15px rgba(0,0,0,0.1); /* เงาให้รูปลอยเด่น */
 }
 
-/* ปรับแต่งชื่อหนังสือ */
+
 .book-title {
     font-size: 1.8rem;
     font-weight: bold;
@@ -118,23 +118,23 @@ tr:hover {
     line-height: 1.4;
 }
 
-/* ปรับแต่งหัวข้อ "รายละเอียดสินค้า" */
+
 .detail-header {
     font-size: 1.2rem;
     font-weight: bold;
-    color: #0d6efd; /* สีน้ำเงินเดียวกับธีมเว็บ */
+    color: #0d6efd;
     margin-top: 30px;
     margin-bottom: 15px;
-    border-bottom: 2px solid #eee; /* เส้นขีดเส้นใต้ */
+    border-bottom: 2px solid #eee;
     padding-bottom: 10px;
 }
 
 /* ปรับแต่งเนื้อหาคำบรรยาย */
 .book-description {
     color: #555;
-    line-height: 1.8; /* ระยะห่างบรรทัดให้อ่านง่าย */
+    line-height: 1.8;
     font-size: 1rem;
-    text-align: left; /* จัดชิดซ้ายให้อ่านง่าย */
+    text-align: left;
 }
 
 /* ปรับแต่งรายการจุดเด่น (List) */
